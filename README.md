@@ -23,6 +23,11 @@ username: holidaze-admin
 password: holidaze-admin12345
 
 
+Regular user (subscriber):
+
+username: cat123
+
+password: cat123
 
 # Project Exam 2
 There are two options with this Project Exam. 
