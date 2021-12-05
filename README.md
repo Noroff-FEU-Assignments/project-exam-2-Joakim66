@@ -1,3 +1,18 @@
+# Project Exam 2 - Login info
+
+Website url: https://jsolholidaze.wpengine.com/
+
+Login info:
+
+Admin 1
+username: tadadev
+password: tadadev
+
+Admin 2
+username: holidaze-admin
+password: holidaze-admin12345
+
+
 # Project Exam 2
 There are two options with this Project Exam. 
 You need to only choose one and please follow the deliveries carefully.
