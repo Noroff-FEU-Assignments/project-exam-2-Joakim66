@@ -1,6 +1,8 @@
 # Project Exam 2 - Login info
 
 Website url: https://jsolholidaze.wpengine.com/
+Github: https://github.com/JoakimSolbak/eksamen-holidaze
+API: https://jsolholidaze.wpengine.com/wp-json
 
 Login info:
 
@@ -11,6 +13,7 @@ password: tadadev
 Admin 2
 username: holidaze-admin
 password: holidaze-admin12345
+
 
 
 # Project Exam 2
