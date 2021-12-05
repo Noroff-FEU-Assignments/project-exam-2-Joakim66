@@ -6,6 +6,10 @@ Github: https://github.com/JoakimSolbak/eksamen-holidaze
 
 API: https://jsolholidaze.wpengine.com/wp-json
 
+ZIP: https://drive.google.com/file/d/13P7uHgRkiXlrEVvHI3lrGmDX4QiSb39N/view?usp=sharing
+
+
+
 
 Login info:
 
