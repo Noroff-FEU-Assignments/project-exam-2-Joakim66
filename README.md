@@ -6,14 +6,20 @@ Github: https://github.com/JoakimSolbak/eksamen-holidaze
 
 API: https://jsolholidaze.wpengine.com/wp-json
 
+
 Login info:
 
 Admin 1
+
 username: tadadev
+
 password: tadadev
 
+
 Admin 2
+
 username: holidaze-admin
+
 password: holidaze-admin12345
 
 
